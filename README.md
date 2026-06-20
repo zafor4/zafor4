@@ -1,12 +1,4 @@
-## Hi there 👋
-
-<!--
-**zafor4/zafor4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...# Hi there, I'm Zafor Iqbal! 👋
+# Hi there, I'm Zafor Iqbal! 👋
 
 ### 🚀 Senior WordPress Developer | Aspiring Data Scientist & DevOps Engineer
 Based in Dhaka, Bangladesh 🇧🇩
@@ -39,6 +31,8 @@ I am a seasoned developer specializing in building robust web applications, cust
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+---
+
 ### 📈 GitHub Statistics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=zafor4&show_icons=true&theme=radical" alt="Zafor's GitHub Stats" />
@@ -49,10 +43,3 @@ I am a seasoned developer specializing in building robust web applications, cust
 
 ### 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zaforiqbal)
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
