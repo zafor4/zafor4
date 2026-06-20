@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
- ###Zafor Iqbal
+ Zafor Iqbal
 
 <div align="center">
   <a href="https://linkedin.com/in/zaforiqbal" target="_blank">
