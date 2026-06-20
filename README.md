@@ -1,7 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/type=waving&color=auto&height=250&section=header&text=Zafor%20Iqbal&subtitle=Enterprise%20Software%20Engineer%20%7C%20Microservices%20Architect&theme=tokyonight&fontSize=50&animation=fadeIn" width="100%" alt="Header Banner" />
-</div>
+ Zafor Iqbal
 
 <div align="center">
   <a href="https://linkedin.com/in/zaforiqbal" target="_blank">
